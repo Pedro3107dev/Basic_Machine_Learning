@@ -131,23 +131,23 @@ Slides developed, presented, and shared by the professor for the course.
 
 1. Clone Repository
 
-```bash
-git clone https://github.com/Pedro3107dev/Basic_Machine_Learning.git
-cd Basic_Machine_Learning
-```
+    ```bash
+    git clone https://github.com/Pedro3107dev/Basic_Machine_Learning.git
+    cd Basic_Machine_Learning
+    ```
 
 2. Create and activate Python's environment (PowerShell)
 
-```bash
-python -m venv env
-.\env\Scripts\Activate.ps1
-```
+    ```bash
+    python -m venv env
+    .\env\Scripts\Activate.ps1
+    ```
 
 3. Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 - Remember that whenever you want to run a .ipynb file, you must select the correct kernel in the top-right corner of the notebook or use the cell selector to use the correct environment.
 
