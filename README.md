@@ -52,6 +52,8 @@ Basic_Machine_Learning/
 ├── slides/
 │   └── [.pdf files]
 │
+└── requirements.txt (dependencies)
+│
 └── .gitignore
 └── README.md
 ```
